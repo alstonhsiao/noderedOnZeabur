@@ -7,6 +7,9 @@
     "start": "node-red"
   },
   "dependencies": {
-    "node-red": "^3.1.0"
+    "node-red": "^4.0.9"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
